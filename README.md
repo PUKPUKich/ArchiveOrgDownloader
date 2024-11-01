@@ -19,3 +19,6 @@ Correct link: https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zi
 In headers you need to specify your cookie and referer link just by copying them from Request Headers
 
 Then just run the .py file
+
+UPD:
+If you have a file format other than .jp2 in the link, you need to change the file format in line 33 of the code.
