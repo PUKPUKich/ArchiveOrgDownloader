@@ -1,2 +1,3 @@
 # ArchiveOrgDownloader
-Downloader for e-books from archive.org
+With this script you can download any book from archive.org website
+
